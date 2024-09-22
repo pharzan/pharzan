@@ -1,4 +1,5 @@
-### I am software crafter
+### I am software crafter, 
+a mechanical engineer turned full-stack developer with a passion for combining software and engineering.
 
 
 Here is some of the technologies I've used to craft code:
@@ -9,11 +10,13 @@ Here is some of the technologies I've used to craft code:
 
 [![Python][python]][python-url] [![FastAPI][FastAPI]][FastAPI-url] 
 
-[![mysql][mysql]][mysql-url] [![git][git]][git-url]
+[![mysql][mysql]][mysql-url] [![postgresql][postgresql]][postgresql-url] [![git][git]][git-url]
 
 [![aws][aws]][aws-url] [![gcp][gcp]][gcp-url] 
 
 [![arduino][arduino]][arduino-url]
+
+As a hobby and side projects, I enjoy experimenting with IoT, Arduino and automation projects, blending my engineering background with software development.
 
 ### Find me
 
@@ -40,8 +43,8 @@ Farzan Tinati
 [typescript-url]: https://www.typescriptlang.org/
 [arduino]: https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 [arduino-url]: https://www.arduino.cc/
-
-
+[postgresql]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
+[postgresql-url]: https://www.postgresql.org/ 
 [gcp]:https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 [gcp-url]: https://cloud.google.com/
 
